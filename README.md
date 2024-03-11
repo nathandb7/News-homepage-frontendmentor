@@ -11,7 +11,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL here](https://github.com/nathandb7/News-homepage-frontendmentor)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://newshomepage-fm.netlify.app)
 
 ## My process
 
